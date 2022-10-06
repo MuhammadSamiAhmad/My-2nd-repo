@@ -6,3 +6,4 @@ int x=5;
 double y=7;
 double area= x * y;
 ```
+- [x] Turn on github pages
